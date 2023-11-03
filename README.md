@@ -59,6 +59,7 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
 <img width="792" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/a7d708eb-525a-49c5-8cc5-3061a960ffc0">
 
 `Karyawan`
+
 <img width="525" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/3c1646cc-101b-4d0d-9c27-76d2eb8b8ffd">
 <img width="788" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/9c717093-69ea-459a-98a5-7253cefeeb56">
 <img width="490" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/24efc227-e271-4376-8c79-3f9831a33803">
@@ -169,3 +170,5 @@ Apabila user memilih riwayat tanam maka tampilannya akan seperti digambar ini.
 ![WhatsApp Image 2023-11-04 at 03 23 57_863259a6](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/cb82ec54-86fa-48d0-9f51-5bc6dbc5a1ca)
 
 Apabila user mengklik "logout" maka user akan keluar dari program.
+
+Sekian terima kasih

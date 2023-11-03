@@ -48,4 +48,38 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
 <img width="625" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/7d52d941-030c-4d93-b1f1-42b3f67e33e3">
 <img width="749" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/a4a870e8-356d-4d10-95f0-1e181ad8879a">
 
-`
+`Buah` 
+<img width="793" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f7bab74f-2f34-43c8-bbb9-6269a546a10e">
+<img width="524" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/b5b48869-f985-4f0d-9427-96483dea27b8">
+<img width="796" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f6e1f2f4-b5cc-4f24-9bed-2f6bb3c0a1e0">
+<img width="793" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/ec349d80-ee10-4f8f-985c-16c33d76ca77">
+<img width="793" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/92a1c1aa-de59-45a0-a3ff-27d4f36cf171">
+<img width="792" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/a7d708eb-525a-49c5-8cc5-3061a960ffc0">
+
+`Karyawan`
+<img width="525" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/3c1646cc-101b-4d0d-9c27-76d2eb8b8ffd">
+<img width="788" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/9c717093-69ea-459a-98a5-7253cefeeb56">
+<img width="490" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/24efc227-e271-4376-8c79-3f9831a33803">
+<img width="778" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/1c5035d4-750a-445a-900f-6a58af584f02">
+
+`Sayuran`
+<img width="786" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/ae1048a7-399e-4ef9-a5ab-2d3237822e73">
+<img width="587" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/74e93b0d-1d42-4845-a772-cb5aeb48b613">
+<img width="789" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f5d5d8b2-a846-4c37-b4eb-bfdc44312eb4">
+<img width="797" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/67ec6eda-de37-4878-b39b-c88906dcc1eb">
+<img width="799" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/3525a22c-609f-4248-a281-2a7ce7566ae8">
+<img width="794" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/31f9b572-b547-478a-a9c2-d70bfd002fdf">
+
+`Tanaman`
+<img width="533" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/d9ec168a-0888-4944-9dd4-bc51cf26897a">
+<img width="517" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/8b41ec5e-f26a-4483-aabf-00ca477c6961">
+<img width="589" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/86454016-c570-4e8b-8290-8d4a8ef67d7f">
+<img width="799" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/7a084eb1-6198-4516-8e2d-74894f077508">
+<img width="790" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/34fc734f-0e74-433b-a12d-f355e20d57d8">
+
+`Riwayat Tanam`
+<img width="636" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/b0477ff5-f507-4094-842b-16fb772778e5">
+<img width="493" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f2b22c44-2c77-4372-83bc-9752bfec7714">
+<img width="773" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/4abbbada-ea44-4892-ba81-f725e708b5d0">
+
+## Penjelasan Output

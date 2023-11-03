@@ -42,13 +42,15 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
   g. `Riwayat` : Kelas ini berfungsi untuk menyimpan data riwayat tanam yang telah dilakukan di instansi perkebunan ini.
 
   ## Penjelasan SourceCode
-`Admin` 
+`Admin`
+
 <img width="736" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/175a593d-0b35-4d81-89dd-0134ffc85f1f">
 <img width="728" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/76d66a3d-eff0-4122-9cae-979e8a90b344">
 <img width="625" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/7d52d941-030c-4d93-b1f1-42b3f67e33e3">
 <img width="749" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/a4a870e8-356d-4d10-95f0-1e181ad8879a">
 
 `Buah` 
+
 <img width="793" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f7bab74f-2f34-43c8-bbb9-6269a546a10e">
 <img width="524" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/b5b48869-f985-4f0d-9427-96483dea27b8">
 <img width="796" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f6e1f2f4-b5cc-4f24-9bed-2f6bb3c0a1e0">
@@ -63,6 +65,7 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
 <img width="778" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/1c5035d4-750a-445a-900f-6a58af584f02">
 
 `Sayuran`
+
 <img width="786" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/ae1048a7-399e-4ef9-a5ab-2d3237822e73">
 <img width="587" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/74e93b0d-1d42-4845-a772-cb5aeb48b613">
 <img width="789" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f5d5d8b2-a846-4c37-b4eb-bfdc44312eb4">
@@ -71,6 +74,7 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
 <img width="794" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/31f9b572-b547-478a-a9c2-d70bfd002fdf">
 
 `Tanaman`
+
 <img width="533" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/d9ec168a-0888-4944-9dd4-bc51cf26897a">
 <img width="517" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/8b41ec5e-f26a-4483-aabf-00ca477c6961">
 <img width="589" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/86454016-c570-4e8b-8290-8d4a8ef67d7f">
@@ -78,8 +82,21 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
 <img width="790" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/34fc734f-0e74-433b-a12d-f355e20d57d8">
 
 `Riwayat Tanam`
+
 <img width="636" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/b0477ff5-f507-4094-842b-16fb772778e5">
 <img width="493" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/f2b22c44-2c77-4372-83bc-9752bfec7714">
 <img width="773" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/4abbbada-ea44-4892-ba81-f725e708b5d0">
 
 ## Penjelasan Output
+`Menu Login`
+
+Saat memulai aplikasi, user akan diminta untuk login. Disini terdapat 2 role, yaitu admin dan karyawan
+
+![WhatsApp Image 2023-11-04 at 02 30 01_5639ab10](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/638ae90c-5ed2-4606-be0c-421c64bdbdb4)
+
+`Login Admin`
+Jika user memilih login sebagai admin, user akan diminta untuk memasukkan name dan password yang telah di tetapkan.
+
+![image](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/21d8821c-72de-4447-89cd-ad83bd03ff6d)
+
+Apabila user berhasil login maka akan muncul notifikasi seperti gambar dibawah ini

@@ -42,3 +42,10 @@ ERD Relational merupakan turunan ERD logical yang telah dibuat. Melalui visualis
   g. `Riwayat` : Kelas ini berfungsi untuk menyimpan data riwayat tanam yang telah dilakukan di instansi perkebunan ini.
 
   ## Penjelasan SourceCode
+`Admin` 
+<img width="736" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/175a593d-0b35-4d81-89dd-0134ffc85f1f">
+<img width="728" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/76d66a3d-eff0-4122-9cae-979e8a90b344">
+<img width="625" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/7d52d941-030c-4d93-b1f1-42b3f67e33e3">
+<img width="749" alt="image" src="https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/a4a870e8-356d-4d10-95f0-1e181ad8879a">
+
+`

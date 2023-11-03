@@ -95,9 +95,77 @@ Saat memulai aplikasi, user akan diminta untuk login. Disini terdapat 2 role, ya
 ![WhatsApp Image 2023-11-04 at 02 30 01_5639ab10](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/638ae90c-5ed2-4606-be0c-421c64bdbdb4)
 
 `Login Admin`
+
 Jika user memilih login sebagai admin, user akan diminta untuk memasukkan name dan password yang telah di tetapkan.
 
 ![image](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/21d8821c-72de-4447-89cd-ad83bd03ff6d)
 
 Apabila user berhasil login maka akan muncul notifikasi seperti gambar dibawah ini
-h
+
+![WhatsApp Image 2023-11-04 at 02 32 04_178985e0](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/c4e44640-0fa8-4d61-8b65-6060ea5cb042)
+
+`Menu Admin`
+
+Berikut adalah menu untuk admin
+
+![WhatsApp Image 2023-11-04 at 02 32 19_600bb02b](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/bb87325d-4608-41d9-bee9-88916e8f2724)
+
+`Menu Create`
+
+Apabila user memilih menu create maka user harus menginput seluruh inputan yang tertera.
+
+![WhatsApp Image 2023-11-04 at 02 32 31_042f8e0e](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/28b258fc-42a8-4f4e-8b0d-267ee34aa5c9)
+
+Berikut adalah notifikasi apabila telah berhasil membuat tanaman
+
+![image](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/27cbaebb-1449-4ba4-bc5b-acf93eb53a05)
+
+`Menu Show Data`
+
+Apabila user memilih menu data, maka user dapat memilih 2 menu yang tertera yakni menu data tanaman dan menu riwayat tanam
+
+![WhatsApp Image 2023-11-04 at 02 34 56_8432169b](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/65c6de4d-fbec-4ad3-9172-e84bbabff445)
+
+Apabila user memilih data tanaman maka tampilannya akan seperti di gambar bawah ini
+
+![WhatsApp Image 2023-11-04 at 02 35 06_375a5d8b](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/45429ae8-4d84-46a8-96d2-258e44c95b8b)
+
+Apabila user memilih riwayat tanam maka tampilannya akan seperti di gambar bawah ini
+
+![WhatsApp Image 2023-11-04 at 02 37 10_6dd64b21](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/a57f7dd6-a7e2-403e-be59-e5ad401e0d08)
+
+`Menu Update Data`
+
+Apabila user ingin mengupdate data, user harus menginputkan id tanaman yang ingin di update dan mengisi setiap inputannya
+
+![image](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/ee9189d1-5c99-45fc-a9aa-e05840d4eb32)
+
+`Menu Delete Data`
+
+Apabila user ingin mendelete data, user dapat mengklik baris yang ingin di delete lalu klik tombol delete yang tertera
+
+![image](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/ce10e38e-17d4-4789-a3b9-cc567dff76d0)
+
+`Login Karyawan`
+
+Jika user memilih login sebagai karyawan, user akan diminta untuk memasukkan name dan password yang telah di tetapkan.
+
+![image](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/9b2d1fca-e0d3-4e93-8384-3b80801e23d4)
+
+`Menu Karyawan`
+
+Berikut adalah menu untuk karyawan, yaitu menu show data yang berisi menu data tanaman dan data riwayat tanam
+
+![WhatsApp Image 2023-11-04 at 03 23 23_e651f1fe](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/41cfc210-d5bb-4699-b536-29d8e3f5aa80)
+
+`Menu Data Tanaman`
+
+Apabila user memilih data tanaman maka user dapat mengklik salah satu data yang ingin dipilih. Untuk bisa melihat data tanaman, user dapat mengklik tombol "visit:
+
+![WhatsApp Image 2023-11-04 at 03 24 35_437f37a0](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/9163fddb-00ab-4271-9885-b8e44bd0a927)
+
+Apabila user memilih riwayat tanam maka tampilannya akan seperti digambar ini.
+
+![WhatsApp Image 2023-11-04 at 03 23 57_863259a6](https://github.com/PA-PBO-KEL-17/PA-PBO17/assets/122090377/cb82ec54-86fa-48d0-9f51-5bc6dbc5a1ca)
+
+Apabila user mengklik "logout" maka user akan keluar dari program.
